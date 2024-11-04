@@ -29,8 +29,8 @@
 
 ## 🚀 Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Rikonardo&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rikonardo&hide=html&layout=compact&theme=tokyonight)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=DarkGan&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkGan&hide=html&layout=compact&theme=tokyonight)
 
 
 
