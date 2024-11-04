@@ -1,5 +1,5 @@
 <h1 align="center">Hello world 👋</h1>
-<p align="center"><b>I am a computer science enthusiast from Ukraine<br>My hobbies are making websites, writing Minecraft plugins and watching femboy tiktoks ✨</b></p>
+<p align="center"><b>I am a computer science enthusiast from Uzbekistan<br>My hobbies are making websites, writing Minecraft plugins ✨</b></p>
 
 ## 🌈 Technologies
 
@@ -32,11 +32,5 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Rikonardo&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rikonardo&hide=html&layout=compact&theme=tokyonight)
 
-## 📞 Contacts
-[![Website](https://img.shields.io/badge/Website-https://rikonardo.com-E34A86?style=flat-square&logo=internetexplorer)](https://rikonardo.com)
-![Website](https://img.shields.io/badge/Discord-rikonardo-5865F2?style=flat-square&logo=discord)
-[![EMail](https://img.shields.io/badge/Email-rikonardo.of@gmail.com-E34F26?style=flat-square&logo=gmail)](mailto:rikonardo.of@gmail.com)
 
-## 🎉 Other links
-[![Maven Repo](https://img.shields.io/badge/-Maven_Repo-C71A36?style=flat-square&logo=apachemaven)](https://maven.rikonardo.com)
-[![Voxelhax Project](https://img.shields.io/badge/-Voxelhax_Project-8589C8?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAASCAYAAABSO15qAAAAAXNSR0IArs4c6QAAAK9JREFUOE/NlDESAiEMRfMqe6+mR/AW9l7CK2jpuWy3+w6MMEyWIHRuuSEvn/ATbPBJUgoDRMe6gZTok3r/MrwlSzqZ2RG49ypKupjZG3iWeAVEFQJQVchKooflXEln4DFqZqQi92AVUF6m9mAW4BOnAZI2MzuEPvilIKq8oiC78b8V7Hzv7D2+QjkcOTJ8vu+E9oZpA14t2DXwCtx2w+Rll3FuFfT2QrgoEnBmoXwAoQKK6/a7o7EAAAAASUVORK5CYII=)](https://voxelhax.com)
+
